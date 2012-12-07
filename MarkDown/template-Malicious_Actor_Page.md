@@ -1,12 +1,12 @@
 # Lorem ipsum 
-| Characteristic  | Value       |
-| --------------- | ----------- |
-| Date Audited    | 19990101    |
-| Name            | Lorem ipsum |
-| DOB             | 19990101    |
-| Age             | 00          |
-| Country of Birth| Lorem ipsum |
-| Location        | Lorem ipsum |
+| Characteristic      | Value       |
+| ------------------- | ----------- |
+| **Date Audited**    | 19990101    |
+| **Name**            | Lorem ipsum |
+| **DOB**             | 19990101    |
+| **Age**             | 00          |
+| **Country of Birth**| Lorem ipsum |
+| **Location**        | Lorem ipsum |
 
 ## Names/Aliases 
   * Lorem ipsum
@@ -17,15 +17,15 @@
   * sample@example.com
 
 ## Web & Social Media Presence 
-|                        | Value       | Date Checked |
-| ---------------------- | ------------|
-| **IM Names**               | Lorem ipsum | 19990101 |
-| **Site/group Affiliation** | Lorem ipsum | 19990101 |
-| **URLs**                   | http://www.example.com | 19990101 |
-| **Domain Data**            | http://www.example.com | 19990101 |
-| **Twitter**                | http://www.example.com | 19990101 |
-| **Facebook**               | http://www.example.com | 19990101 |
-| **LinkedIn**               | http://www.example.com | 19990101 |
+|                            | Value                  | Date Checked |
+| -------------------------- | ---------------------- | ------------ |
+| **IM Names**               | Lorem ipsum            | 19990101     |
+| **Site/group Affiliation** | Lorem ipsum            | 19990101     |
+| **URLs**                   | http://www.example.com | 19990101     |
+| **Domain Data**            | http://www.example.com | 19990101     |
+| **Twitter**                | http://www.example.com | 19990101     |
+| **Facebook**               | http://www.example.com | 19990101     |
+| **LinkedIn**               | http://www.example.com | 19990101     |
 
 ## Screen Shots 
 FIXME Add relevent screenshots using file upload dialog
