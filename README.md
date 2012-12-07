@@ -7,8 +7,6 @@ Lets say for now it's a BSD license, but that may change.
 ## Formats
 ###Supported Formast:
 - [DokuWiki](https://www.dokuwiki.org/dokuwiki)
-
-### In Progress:
 - [MarkDown](http://daringfireball.net/projects/markdown/)
 
 ### Planned: 
